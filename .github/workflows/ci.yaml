@@ -3,6 +3,7 @@ name: Package Project
 # kiedy mam uruchomic automatyzacje
 on: [ push ]
 
+
 jobs:
   build_and_test:
     runs-on: ubuntu-latest
